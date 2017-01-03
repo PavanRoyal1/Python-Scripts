@@ -1,0 +1,20 @@
+{
+  "PerformanceDataWriterTimeInterval": 10,
+  "PerformanceDataCollectionTimeInterval": 5,
+  "NetworkUsageDataCollectionTimeInterval": 10,
+  "RemoteConnectionsDataCollectionTimeInterval": 10,
+  "InventoryDataCollectionTimeInterval": 59, 
+  "EnablePerformanceDataCollection": true,
+  "EnableNetworkUsageDataCollection": true,
+  "EnableRemoteConnectionDataCollection": true,
+  "EnableInevntoryDataCollection": true,
+  "NetworkShareRoortPath": "/mnt/Backups/Ensight",
+  "NetworkUsageDataNetworkShareRootPath": "",
+  "RemoteConnectionsDataNetworkShareRootPath": "",
+  "PerformanceDataNetworkShareRootPath": "",
+  "WebAPIUrl": "",
+  "WebTestUrl": "",
+  "ClientKey": "",
+  "Type": "serveragent",
+  "AssessmentID": ""
+}
