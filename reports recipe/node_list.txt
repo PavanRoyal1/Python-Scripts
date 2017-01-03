@@ -1,3 +1,0 @@
-centos-test-vm
-redhat-test-vm
-ubuntu-test-vm
